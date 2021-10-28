@@ -1,16 +1,12 @@
 # squidgame
 
-A new Flutter project.
+This is a Simple UI design inspired by a UI from dribble.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the code.
+Download Zip, extract and run it with vs code or anroid studio.
+or
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Copy the clone link from this repository.
+2. type git clone and the clone link
